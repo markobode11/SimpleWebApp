@@ -1,9 +1,9 @@
 {
   "Extensions": [
     {
-      "Name": "UpgradeAssistant.Extension.ForceTFM",
+      "Name": "UpgradeAssistant.Extension.cleanup",
       "Source": "https://api.nuget.org/v3/index.json",
-      "Version": "1.0.7"
+      "Version": "1.0.0"
     }
   ]
 }
