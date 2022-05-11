@@ -32,4 +32,7 @@
     <PackageReference Include="Antlr4" Version="4.6.6" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.4" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleClassLibrary\SimpleClassLibrary.csproj" />
+  </ItemGroup>
 </Project>
